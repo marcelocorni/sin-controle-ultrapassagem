@@ -1,0 +1,8 @@
+app copy.py
+data/
+rules_editor.py
+VARIAVEIS_E_REGRAS.sql
+corrected_generalized_rules.csv
+cross_join.csv
+generalized_rules.csv
+notas_de_aula.pdf
